@@ -43,7 +43,7 @@ Render is the easiest way to host this project for free.
 ## 📂 Data & Images
 - **Images**: All current contestant images are in the `uploads/` folder. They are included in this export.
 - **Login**: 
-  - **Admin Email**: `bennygrace2026@gmail.com`
-  - **Password**: `Uni9jamedia95#`
+  - **Admin Email**: `bennymail.com`
+  - **Password**: `Uni9j5#`
 - **Database**: The project uses `database.sqlite` by default. If you use a host like Render, images and data might be deleted when the server restarts unless you use a "Persistent Disk". 
 - **Recommendation**: Use **Supabase** (PostgreSQL) for permanent data storage. I have included `supabase_schema.sql` for you to run in Supabase.
