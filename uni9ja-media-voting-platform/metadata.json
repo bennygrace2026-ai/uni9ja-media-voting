@@ -1,0 +1,6 @@
+{
+  "name": "UNI9JA MEDIA Voting Platform",
+  "description": "Face of the Week voting platform for students across Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
